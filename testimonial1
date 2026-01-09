@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Nume Prenume</title>
+</head>
+
+<body style="margin:0; font-family:Arial, sans-serif; background:#fafafa;">
+
+  <!-- Name in top-right -->
+  <div style="
+    position:fixed;
+    top:20px;
+    right:20px;
+    font-weight:bold;
+    color:red;
+  ">
+    Nume Prenume
+  </div>
+
+  <!-- Testimonial Content -->
+  <div style="
+    max-width:800px;
+    margin:100px auto;
+    padding:20px;
+    font-size:1.1rem;
+    line-height:1.6;
+  ">
+    Aici va fi testimonialul complet.  
+    Poți scrie o poveste lungă, o mărturie, sau un text istoric.
+  </div>
+
+</body>
+</html>
